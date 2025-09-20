@@ -1,4 +1,5 @@
-<img src="https://img.shields.io/github/downloads/C0m3b4ck/Bookworm/total">
+<img src="https://img.shields.io/github/downloads/C0m3b4ck/Mass-Media-Downloader/total">
+
 # Mass-Media-Downloader
 
 A selection of scripts for mass-downloading media.
