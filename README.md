@@ -16,11 +16,14 @@ I wanted to back up and save all the games from Internet Archive, as I have too 
 - Python libraries from requirements.txt 
 
 ## Installation  
-<br>
-<br>***On Linux:*** 
-1. Make a Python 3.13 virtual environment
-2. Run 'pip install -r requirements.txt'
-3. Run program .py
+<br>***On Linux:***
+<br>1. Make a Python 3.13 virtual environment (preferred for package safety on system)
+<br>2. Run 'pip install -r requirements.txt'
+<br>3. Run program .py
+<br>***On Windows:***
+<br>1. Make a Python 3.13 virtual environment (preferred for package safety on system)
+<br>2. Run 'pip install -r requirements.txt'
+<br>3. Run program .py
 
 ## How it Works 
 Internet Archive script: uses the InternetArchive library to download from a specific collection into temp directory (same dir as script), then moves the finished files to right directory
